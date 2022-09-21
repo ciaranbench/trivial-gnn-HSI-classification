@@ -1,5 +1,5 @@
 ## Trivial hyperspectral image classification with a graph neural network
-###Ciaran Bench
+### Ciaran Bench
 
 There is a strong desire among spectroscopists to exploit the chemical/compositional information encoded in a tissue's hyperspectral image (HSI) (an image that can be formed by collating Raman or IR spectra acquired at equally spaced-out points across a sample) to predict its pathology state well before more obvious morphological signs used by pathologists become visible at later stages of the disease's progression.
 
