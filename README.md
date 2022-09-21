@@ -1,0 +1,1 @@
+# trivial-gnn-HSI-classification
